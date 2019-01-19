@@ -8,7 +8,7 @@
     <artifactId>shipping</artifactId>
     <packaging>jar</packaging>
 
-    <name>shipping</name>
+    <name>Shipping</name>
     <description>Shipping service for microservices-demo application</description>
 
     <parent>
